@@ -2,3 +2,6 @@
     font-size: 18px;
 	font-weight: 200;
 }
+p.lead-min{
+    font-size: calc(14px + (17 - 14) * ((100vw - 300px) / (1600 - 300)));
+}
