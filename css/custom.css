@@ -8,3 +8,10 @@ p.lead-min{
 .translate{
     cursor: pointer;
 }
+.rd-navbar-aside .privacy-link{
+    color: aqua;
+}
+.rd-navbar-fixed .rd-navbar-collapse .rd-navbar-aside .privacy-link {
+    color: black;
+    font-weight: bold;
+}
